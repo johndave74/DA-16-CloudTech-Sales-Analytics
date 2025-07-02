@@ -1,6 +1,6 @@
 # 📊 CloudTech Analytics Sales Dashboard (2021–2022)
 
-This Power BI dashboard provides a comprehensive overview of CloudTech Analytics' **sales, profit, and order trends** over a two-year period (2021–2022). It visually breaks down performance indicators across months and product categories, enabling informed decision-making.
+This Excel dashboard provides a comprehensive overview of CloudTech Analytics' **sales, profit, and order trends** over a two-year period (2021–2022). It visually breaks down performance indicators across months and product categories, enabling informed decision-making.
 
 ![Screenshot 2025-07-02 074330](https://github.com/user-attachments/assets/76768b84-ece6-4fa1-8e12-6c7e22e23274)
 
@@ -63,10 +63,8 @@ The **Sales Overview Line Chart** shows:
 ---
 
 ## 🔍 Tools Used
-
-* **Power BI**: Data modeling, DAX, and dashboard design.
 * **Microsoft Excel**: Used for initial data cleaning and preprocessing.
-
+* **Data modeling**, DAX, and dashboard design.
 ---
 
 ## 👤 Author
